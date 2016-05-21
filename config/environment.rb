@@ -1,0 +1,5 @@
+require 'rubygems'
+require 'bundler/setup'
+require 'hanami/setup'
+require_relative '../lib/hanami_sample'
+require_relative '../config/application'
